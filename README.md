@@ -1,2 +1,1 @@
-# Proxy-Server---Jon
-Building a proxy server to put together different services
+# This is an application designed to mimic the look and feel of the LuluLemon Product Description and Detail Page.
